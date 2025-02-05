@@ -52,5 +52,5 @@ $ ./bin/rillettes
 
 ```bash
 $ docker build . -t scraly/rillettes
-
+$ docker run scraly/rillettes
 ```
